@@ -1,2 +1,2 @@
-# Automatic-download-of-Sentinel-2-images-using-EODAG-library-from-Copernicus-data-space-ecosystem, unzip, select bands and create Normalized Difference Vegetation Index (NDVI)
+# Automatic-download-of-Sentinel-2-images-, unzip, select bands and create Normalized Difference Vegetation Index (NDVI)
 In this  learn how to leverage the EODAG library to connect securely to the Copernicus Data Space Ecosystem, search for imagery, filter the results to find only those with the lowest cloud cover, and then execute a script that downloads the single best, cleanest image to the folder.
