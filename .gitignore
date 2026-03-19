@@ -1,1 +1,14 @@
+# Ignore the actual configuration file
+eodag_config.yml
+my_secret_config.yml
 
+# Ignore python environment and sensitive system files
+.env
+__pycache__/
+*.venv
+
+# Ignore the downloaded Sentinel-2 images (prevent bloating the repo)
+# Adjust these paths based on your download folder
+output_data/
+*.zip
+*.SAFE/
